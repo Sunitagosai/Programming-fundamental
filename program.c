@@ -1,11 +1,11 @@
 
 
 
-#include<studio.h>
+#include<stdio.h>
 #include<conio.h>
 int main () {
 
 printf("Sunita gosai")
 getch ();
-retun(0);
+return(0);
 }
