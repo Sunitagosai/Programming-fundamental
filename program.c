@@ -3,7 +3,7 @@
 
 #include<studio.h>
 #include<conio.h>
-it main () {
+int main () {
 
 printf("Sunita gosai")
 getch ();
