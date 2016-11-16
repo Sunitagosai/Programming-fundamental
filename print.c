@@ -1,6 +1,6 @@
 /*Student Name:Sunita Gosai
 Subject:Programming fundamental
-Lab sheet no:1
+Lab sheet no:02
 Program:Write a C program to print sum of two numbers asked from users
 Date:16 Nov,2016
 */
