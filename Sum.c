@@ -1,7 +1,7 @@
 /*
 Student name:Sunita Gosai
 Subject:Programming Fundamental
-Lab sheet no:02
+Lab sheet no:03
 Program:WAP to print sum of two numbers ask from users
 Date:18 NOv,2016
 */
