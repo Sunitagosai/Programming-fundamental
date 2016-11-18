@@ -1,7 +1,7 @@
 /*
 Student Name:Sunita Gosai
 Subject:Programming Fundamental
-Lab sheet no:02
+Lab sheet no:03
 Program:WAP to print simple interest ask from users
 Date:18 Nov,2016
 */
