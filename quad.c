@@ -2,7 +2,7 @@
 Student Name:Sunita Gosai
 Subject: Programming Fundamental
 Lab sheet No:05
-Program:WAP to find sum of digits of there digits number
+Program:WAP to find sum of digits of three digits number
 Date:23 Nov,2016
 */
 #include<stdio.h>
