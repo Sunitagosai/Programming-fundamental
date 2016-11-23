@@ -17,7 +17,7 @@ scanf("%f",&b);
 printf("Enter the third number:");
 scanf("%f",&c);
 Dis=(b*b)-(4*a*c);
-//printf("%f", Dis);
+printf("%f", Dis);
 x=pow(Dis,0.5)/(2*a);
 y=-pow(Dis,0.5)/(2*a);
 printf("Quadratic equation is:%f\n",x);
