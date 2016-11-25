@@ -18,11 +18,11 @@ Sub=a-b;
 Multi=a*b;
 Div=a/b;
 Modulus=a%b;
-printf("The Add number is:%d\n,Add");
-printf("The Sub number is:%d\n,Sub");
-printf("The Multi number is:%d\n,Multi");
-printf("The Div number is:%d\n,Div");
-printf("The Modulus number is:%d\n,Modulus");
+printf("The Add number is:%d\n",Add);
+printf("The Sub number is:%d\n",Sub);
+printf("The Multi number is:%d\n",Multi);
+printf("The Div number is:%d\n",Div);
+printf("The Modulus number is:%d\n",Modulus);
 getch();
 return(0);
 }
