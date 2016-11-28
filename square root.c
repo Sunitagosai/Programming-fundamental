@@ -9,11 +9,11 @@ Date:28 Nov,2016
 #include<conio.h>
 #include<math.h>
 int main(){
-float a,sqrt;
+float a,sq;
 printf("Enter the first number:\n");
 scanf("%f",&a);
-sqrt=pow(a,0.5);
-printf("The square root of this number is:%f",sqrt);
+sq=pow(a,0.5);
+printf("The square root of this number is:%f",sq);
 getch();
 return(0);
 }
