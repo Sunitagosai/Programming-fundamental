@@ -3,6 +3,7 @@ Student Name:Sunita Gosai
 Subject:Programming Fundamental
 Lab Sheet No:07
 Program:WAP to enter any number and calculate its square
+Date:28 Nov,2016
 */
 #include<stdio.h>
 #include<conio.h>
