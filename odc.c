@@ -2,7 +2,7 @@
 Student name:Sunita Gosai
 Subject:Programming Fundamental
 Lab Sheet no:11
-Program:WAP to check no. odd or even
+Program:WAP to check the largest number
 Date:7 Dec,2016
 */
 #include<stdio.h>
