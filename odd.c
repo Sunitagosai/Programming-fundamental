@@ -1,24 +1,19 @@
 /*
 Student Name:Sunita Gosai
 Subject:Programming Fundamental
-Lab Sheet No:06
-Program:WAP to check the number is odd or even
-Date:25 Nov,2016
+Lab Sheet No:14
+Program:WAP to print all natural numbers from 1 to n using while loop
+Date:2 Jan,2016
 */
 #include<stdio.h>
 int main(){
-    int n;
-    printf("Enter the number:\n");
-    scanf("%d",&n);
-    if(n%2==0)
-    {
-            printf("Number is even");
-    }
-    else
-        {
-            printf("Number is odd");
-    }
-
-    return 0;
-    }
+int a=1,n;
+printf("Enter the first number:\n");
+scanf("%d",&n);
+while(a<=n)
+{
+	printf("\n%d",a++);
+}
+return(0);
+			}
 
