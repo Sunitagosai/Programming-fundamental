@@ -1,19 +1,10 @@
-/*
-Student Name:Sunita Gosai
-Subject:Programming Fundamental
-Lab Sheet No:14
-Program:WAP to print all natural numbers from 1 to n using while loop
-Date:2 Jan,2016
-*/
 #include<stdio.h>
+#include<conio.h>
 int main(){
-int a=1,n;
-printf("Enter the first number:\n");
+int n;
+printf("Enter the number:\n");
 scanf("%d",&n);
-while(a<=n)
-{
-	printf("\n%d",a++);
-}
+(n%2==0)?printf("The no is even"):printf("The no is odd");
+getch();
 return(0);
-			}
-
+}
