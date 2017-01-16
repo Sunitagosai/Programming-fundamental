@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 int main(){
-int a,count=0;
+int a,count=1;
 printf("Enter the digit number\n");
 scanf("%d",&a);
 while(a>=10)
